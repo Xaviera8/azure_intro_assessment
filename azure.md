@@ -1,3 +1,4 @@
+
 Azure Dedicated Hosts
 This service allows for users to host multiple virtual machines across a physical server. The severs are dedicated and do not share capacity or bandwith with other users or organizations. This would be helpful for python users whose machine may not have the adequate resources to run programs at high capacity.
 
